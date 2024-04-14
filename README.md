@@ -1,8 +1,7 @@
+
+
 # Breezify
 Effortless Weather Companion
-
-# Breezify
-
 
 Breezify is a beautifully designed weather app built using React and powered by the OpenWeather API. It provides real-time weather updates with an aesthetic and intuitive user interface.
 
