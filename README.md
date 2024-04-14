@@ -9,7 +9,6 @@ Breezify is a beautifully designed weather app built using React and powered by 
 - Real-time weather updates from the OpenWeather API.
 - Sleek and intuitive design crafted using React.
 - Easy-to-use interface for accessing accurate weather information.
-- Responsive layout for seamless usage across devices.
 
 
 ![image](https://github.com/harshita-bfly/Breezify/assets/100403649/aa0bc7de-5f83-4483-b34d-462ba906baca)
