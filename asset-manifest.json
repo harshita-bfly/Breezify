@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Breezify/static/css/main.bef42734.css",
+    "main.js": "/Breezify/static/js/main.6bcf5700.js",
+    "static/media/sunset.jpg": "/Breezify/static/media/sunset.bafce33037e0edf938e0.jpg",
+    "index.html": "/Breezify/index.html",
+    "main.bef42734.css.map": "/Breezify/static/css/main.bef42734.css.map",
+    "main.6bcf5700.js.map": "/Breezify/static/js/main.6bcf5700.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bef42734.css",
+    "static/js/main.6bcf5700.js"
+  ]
+}
