@@ -5,7 +5,7 @@ function App() {
   const [data, setData] = useState({});
   const [location, setLocation] = useState("");
 
-  const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=imperial&appid=aac504e258a8b89fcf349f1c6ef1f567`;
+  const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=imperial&appid=YOUR_API_KEY`;
 
   const searchLocation = (event) => {
     if (event.key === "Enter") {
@@ -67,3 +67,7 @@ function App() {
 }
 
 export default App;
+
+//how i hidden my api key?
+//created .env file and passed key to an identifier(variable) in .env file.
+//then replaced api from that variable and then stored .env in gitignore!!
