@@ -71,3 +71,5 @@ export default App;
 //how i hidden my api key?
 //created .env file and passed key to an identifier(variable) in .env file.
 //then replaced api from that variable and then stored .env in gitignore!!
+
+//to stop development server from running write npm run stop or simply ctrl+c
